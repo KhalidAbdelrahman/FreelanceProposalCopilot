@@ -1,0 +1,41 @@
+database_path: data/copilot.db
+public_base_url: http://127.0.0.1:8765
+poll_seconds: 60
+min_score: 55
+max_proposal_words: 150
+tracker_path: ""
+tone_profile_path: tone_profile.yaml
+proposal_samples_dir: data/past_proposals
+enable_experimental_browser: false
+
+categories:
+  Web Development:
+    - website
+    - web development
+    - next.js
+    - shopify
+    - wordpress
+    - landing page
+    - automation
+  Branding:
+    - logo
+    - branding
+    - brand identity
+    - packaging
+  Content / Social / Video:
+    - social media
+    - content calendar
+    - video editing
+    - reels
+    - copywriting
+exclude_terms:
+  - unpaid trial
+  - commission only
+  - adult content
+  - academic cheating
+freelancer_queries:
+  - web development
+  - branding
+  - ai automation
+browser_saved_searches:
+  upwork: []

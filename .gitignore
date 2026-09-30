@@ -1,0 +1,15 @@
+.env*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.code-workspace
+config.yaml
+data/*.db
+data/*.db-*
+data/msal_cache.json
+data/browser-profile/
+data/past_proposals/*
+!data/past_proposals/.gitkeep
+*.bak

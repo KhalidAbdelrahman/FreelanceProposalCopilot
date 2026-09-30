@@ -1,0 +1,15 @@
+name: Amgad
+positioning: AI-powered web and brand systems for local service businesses
+max_words: 150
+rules:
+  - Open with their project, not your bio, and reference one specific detail from the posting.
+  - Include one relevant and truthful proof point only; never invent a result, metric, client, certification, or tool.
+  - Give a short concrete approach in two or three sentences.
+  - Ask one smart clarifying question that makes it easy to reply.
+  - Keep the entire proposal under 150 words.
+  - Avoid filler such as "I am a hardworking professional" and "looking forward to hearing from you."
+  - Sound concise, practical, consultative, and confident rather than salesy.
+approved_proof_points: []
+# Add only facts you are comfortable claiming publicly, for example:
+# approved_proof_points:
+#   - "I built a bilingual brand identity and e-commerce presentation for TBunny."
